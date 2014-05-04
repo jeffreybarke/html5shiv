@@ -11,5 +11,9 @@
     "build",
     "src",
     "build.xml"
+  ],
+  "license": [
+    "MIT",
+    "GPL-2.0"
   ]
 }
